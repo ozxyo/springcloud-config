@@ -1,1 +1,2 @@
-name:123
+config:
+  info: "config-dev.yml versuon=1"
